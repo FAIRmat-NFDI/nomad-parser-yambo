@@ -2,7 +2,7 @@ site_name: nomad-parser-yambo
 site_description: A NOMAD parser plugin for YAMBO input/outputs files.
 site_author: Jose M. Pizarro
 
-repo_url: https://github.com/JosePizarro3/nomad-parser-yambo
+repo_url: https://github.com/FAIRmat-NFDI/nomad-parser-yambo
 edit_uri: ""
 
 nav:
